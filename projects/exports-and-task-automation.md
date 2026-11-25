@@ -3,6 +3,12 @@
 **Focus:** Desktop automation, scheduled processing, operational reliability  
 **Public artifact:** Sanitized engineering case study only
 
+## Architecture diagram
+
+![Sanitized exports and reporting architecture](../assets/exports-task-automation-architecture.svg)
+
+*Conceptual view: the desktop export tool and scheduled task/reporting tool are separate applications with independent release controls.*
+
 ## The problem
 
 Recurring business operations require information to be extracted from line-of-business applications, validated, converted into useful reports, and delivered reliably. A successful run must be distinguishable from partial completion, connectivity failure, or invalid authentication.

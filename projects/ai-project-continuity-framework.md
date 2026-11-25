@@ -4,6 +4,12 @@
 **Current documented framework:** v1.3 active; v1.4 not released  
 **Public artifact:** Conceptual engineering case study, not the authoritative internal framework
 
+## Architecture diagram
+
+![Sanitized AI project continuity architecture](../assets/ai-project-continuity-architecture.svg)
+
+*Conceptual view of the owner-defined framework. Recovery and changes depend on verified source access; this is not automatic platform memory.*
+
 ## The problem
 
 Long-running software and automation projects often span many ChatGPT conversations, multiple code repositories, files, and development environments. Without explicit continuity practices, a new conversation can lose decisions, confuse project identity, repeat tests unnecessarily, or treat an unverified claim as established fact.

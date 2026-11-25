@@ -3,6 +3,12 @@
 **Focus:** Browser extensions, systems integration, business workflow automation  
 **Status:** Developed and actively refined
 
+## Architecture diagram
+
+![Sanitized browser-based workflow automation architecture](../assets/browser-workflow-architecture.svg)
+
+The diagram is an illustrative, sanitized view of the extension's architecture and data flow. It intentionally omits implementation details, secrets, and identifiable client information.
+
 ## Business problem
 
 Staff working in a line-of-business application need related appointment and communication context from several systems. Switching among tools creates repeated searches, manual work, and opportunities for lost context.

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="740" viewBox="0 0 1440 740" role="img" aria-labelledby="title desc">
+<title id="title">Browser-Based Workflow Automation - Sanitized Architecture</title>
+<desc id="desc">Center staff access an existing business application enhanced by a browser extension, which retrieves authorized calendar and email context and applies validation and safeguards.</desc>
+<defs>
+<style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#162b49} .title{font-size:38px;font-weight:700}.subtitle{font-size:19px;fill:#52677e}
+.h{font-size:21px;font-weight:700}.sub{font-size:16px}.small{font-size:14px;fill:#52677e}
+.box{fill:#f8fbff;stroke:#8eb7d7;stroke-width:2}.module{fill:#fff;stroke:#99c7d2;stroke-width:1.5}
+.flow{stroke:#2774a9;stroke-width:3;fill:none;marker-end:url(#arrow)}
+</style>
+<marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0 L9 4.5 L0 9 Z" fill="#2774a9"/></marker>
+</defs>
+<rect width="1440" height="740" fill="#fff"/>
+<rect width="1440" height="110" fill="#eef7fc"/>
+<text x="55" y="54" class="title">Browser-Based Workflow Automation</text>
+<text x="57" y="83" class="subtitle">Sanitized technical architecture - conceptual portfolio view</text>
+<rect x="40" y="168" width="185" height="360" rx="16" class="box"/>
+<text x="65" y="208" class="h">Center Staff</text>
+<text x="65" y="273" class="sub">Coordinator</text><text x="65" y="307" class="sub">Consultant</text><text x="65" y="341" class="sub">Operations</text>
+<text x="65" y="474" class="small">User-driven actions</text>
+<rect x="265" y="168" width="220" height="360" rx="16" class="box"/>
+<text x="283" y="207" class="h">Existing Business</text><text x="283" y="233" class="h">Application</text>
+<rect x="289" y="268" width="170" height="92" rx="9" fill="#e6f1fa" stroke="#377eae" stroke-width="2"/>
+<rect x="303" y="283" width="142" height="14" rx="3" fill="#8bb6d7"/>
+<rect x="303" y="307" width="75" height="35" rx="3" fill="#c4dae9"/>
+<text x="285" y="404" class="sub">Client records</text>
+<text x="285" y="436" class="sub">Scheduling context</text>
+<text x="285" y="468" class="sub">Operational workflows</text>
+<rect x="530" y="155" width="405" height="385" rx="17" fill="#e6f9f6" stroke="#0b9790" stroke-width="3"/>
+<path d="M547 155 H918 Q935 155 935 172 V216 H530 V172 Q530 155 547 155" fill="#07948e"/>
+<text x="554" y="194" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="22" fill="white">Browser Extension Layer</text>
+<rect x="552" y="234" width="360" height="45" rx="9" class="module"/>
+<text x="571" y="263" class="sub">UI Panel / Workflow Assistant</text>
+<rect x="552" y="290" width="360" height="45" rx="9" class="module"/>
+<text x="571" y="319" class="sub">Content Script</text>
+<rect x="552" y="346" width="360" height="45" rx="9" class="module"/>
+<text x="571" y="375" class="sub">Background Worker</text>
+<rect x="552" y="402" width="360" height="45" rx="9" class="module"/>
+<text x="571" y="431" class="sub">State and Session Management</text>
+<rect x="552" y="458" width="360" height="45" rx="9" class="module"/>
+<text x="571" y="487" class="sub">Validation and Error Handling</text>
+<rect x="990" y="148" width="405" height="115" rx="14" class="box"/>
+<text x="1011" y="181" class="h">Google Calendars</text>
+<text x="1012" y="212" class="sub">Multi-calendar search</text><text x="1012" y="237" class="sub">Appointment lookup</text>
+<rect x="990" y="286" width="405" height="115" rx="14" class="box"/>
+<text x="1011" y="319" class="h">Authorized Business Email</text>
+<text x="1012" y="350" class="sub">Mailbox search</text><text x="1012" y="375" class="sub">Relevant communications context</text>
+<rect x="990" y="424" width="405" height="115" rx="14" class="box"/>
+<text x="1011" y="457" class="h">Internal Workflow Logic</text>
+<text x="1012" y="488" class="sub">Record association and deduplication</text>
+<text x="1012" y="513" class="sub">Context retention</text>
+<path d="M225 340 H264" class="flow"/><path d="M485 340 H528" class="flow"/>
+<path d="M936 205 H989" class="flow"/><path d="M936 342 H989" class="flow"/><path d="M936 479 H989" class="flow"/>
+<path d="M935 521 V565 H140 Q120 565 120 546" fill="none" stroke="#2774a9" stroke-width="3" stroke-dasharray="9 6" marker-end="url(#arrow)"/>
+<text x="560" y="559" class="small">Context and results returned to the application and authorized staff</text>
+<rect x="40" y="598" width="1355" height="101" rx="16" fill="#eaf5fa"/>
+<text x="65" y="632" class="h">Operational Safeguards</text>
+<text x="65" y="667" class="sub">Authorized access only</text>
+<text x="370" y="667" class="sub">User-controlled actions</text>
+<text x="730" y="667" class="sub">Regression testing</text>
+<text x="1030" y="667" class="sub">Sanitized documentation</text>
+<text x="355" y="728" class="small">Conceptual diagram. No proprietary code, credentials, or client data shown.</text>
+</svg>

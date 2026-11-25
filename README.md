@@ -24,6 +24,8 @@ These summaries describe business and engineering challenges at a high level. Th
 | [AI-Assisted Analytics Integration](projects/ai-analytics-integration.md) | Using ChatGPT integrations to analyze Google Analytics 4 data across two locations |
 | [Browser-Based Workflow Automation](projects/browser-workflow-automation.md) | Calendar, email, and client-workflow integration through browser extensions |
 | [Automated Data Processing & Reporting](projects/automated-data-processing.md) | Scheduled exports, validation, logging, and failure handling |
+| [LearningRx Exports & Task Automation](projects/exports-and-task-automation.md) | Separate desktop export and task-reporting applications, with a focus on reliability and tests |
+| [AI Project & Workspace Continuity Framework](projects/ai-project-continuity-framework.md) | An owner-defined process for cross-conversation recovery, source authority, and guarded project changes |
 
 ## Engineering approach
 
